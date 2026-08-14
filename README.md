@@ -14,7 +14,7 @@ This Python script is used to automatically send messages to [ngl.link](https://
    
 2. Go to NGL-Spammer file:
     ```bash
-     cd NGL-Spammer
+     cd NGLSPAMMERV1
 3. Install the required libraries by running the following command:
     ```bash
     pip install -r requirements.txt
