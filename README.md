@@ -10,7 +10,8 @@ This Python script is used to automatically send messages to [ngl.link](https://
 
 1. download this code:
    ```bash
-   git clone https://github.com/0MeMo07/NGL-Spammer.git
+   git clone https://github.com/ilham9463975-hub/NGLSPAMMERV1
+   
 2. Go to NGL-Spammer file:
     ```bash
      cd NGL-Spammer
