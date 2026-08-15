@@ -43,4 +43,4 @@ If there are 4 consecutive unsuccessful submissions, the script will change the 
 
 ## Support me
 
-<a href="https://www.buymeacoffee.com/SmakeMeMo" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/black_img.png" alt="Buy Me A Coffee">
+DANA, OVO ,GOPAY, SHOPEEPAY, NOMOR:081223440399
